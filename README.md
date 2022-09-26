@@ -7,10 +7,11 @@ Explorando el dataset con los salarios, se encuentra que:
 Cómo varía el salario dependiendo del rol:
 
 <img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_role_simpl.png">
+
 <img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_roleAVG.png">
 
 Cómo varía el salario dependiendo del rol:
-<img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_role.png">
+
 
 <img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_prof.png">
 <img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_expertise_evg.png">
@@ -21,8 +22,7 @@ Cómo varía el salario dependiendo del rol:
 
 
 
-
-
+<img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_role.png">
 
 <img width="700" alt="1" src="">
 <img width="700" alt="1" src="">
