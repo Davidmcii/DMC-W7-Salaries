@@ -70,13 +70,13 @@ r2_score
 
 Finalmente se consiguen estos valores para cada uno de los modelos: 
 
-<img width="1000" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/Results.PNG">
+<img width="500" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/Results.PNG">
 
 El modelo que se ha entendido como mejor ajustado han sido Ridge al estar mejor fitteado y dar una predicción en el test mejor que el resto de modelos.
 
 Con este, se ven los valores depende principalmente de: 
 
-<img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/result1.png">
+<img width="1000" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/result1.png">
 
 La distribución de salarios por experiencia es: 
 
