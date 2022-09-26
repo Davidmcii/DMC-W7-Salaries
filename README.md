@@ -78,9 +78,9 @@ Con este, se ven los valores depende principalmente de:
 
 <img width="1000" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/result1.png">
 
-La distribución de salarios por experiencia es: 
+La distribución de salarios por país es: 
 
-<img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/output.png">
+<img width="1000" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/result_Salary_country.png">
 
 Por otro lado, la distribución de experiencia por role es: 
 
