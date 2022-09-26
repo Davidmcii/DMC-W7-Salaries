@@ -24,7 +24,7 @@ Cómo varía el salario dependiendo del rol:
 
 Se revisa como varía el sueldo según el país:
 
-<img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_country.png">
+<img width="1000" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_country.png">
 
 Revisamos como varía el salario con el tamaño de la empresa:
 
