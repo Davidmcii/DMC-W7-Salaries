@@ -88,7 +88,7 @@ La distribución de salarios por país es:
 
 Por otro lado, la distribución de experiencia por role es: 
 
-<img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/result_Salary_country.png">
+<img width="1000" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_prof.png">
 
 
 
