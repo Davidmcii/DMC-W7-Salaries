@@ -8,17 +8,17 @@ Cómo varía el salario dependiendo del rol:
 
 <img width="1000" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_role.png">
 
-
-
 Estos roles se simplifican y se deja en 4 categorías:
 
 <img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_role_simpl.png">
 
-El sueldo medio de cada categoría es: 
+El sueldo medio de cada role es: 
 
 <img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_roleAVG.png">
 
-Cómo varía el salario dependiendo del rol:
+Cómo varía el salario dependiendo de la experiencia:
+
+<img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/output.png">
 
 <img width="700" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_expertise_evg.png">
 
