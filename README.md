@@ -90,7 +90,10 @@ Por otro lado, la distribución de experiencia por role es:
 
 <img width="1000" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/salary_prof.png">
 
+Los resultados conseguidos son los siguientes: 
 
+<img width="1000" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/Captura%20de%20pantalla%202022-09-27%20090833.jpg">
+<img width="1000" alt="1" src="https://raw.githubusercontent.com/Davidmcii/DMC-W7-Salaries/main/3-Plots/Captura%20de%20pantalla%202022-09-27%20091105.jpg">
 
 
 
